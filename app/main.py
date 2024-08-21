@@ -1,7 +1,7 @@
 import read_csv
 import utils
 import charts
-import pandas as pd
+import pandas as pd # type: ignore
 
 
 def run():
